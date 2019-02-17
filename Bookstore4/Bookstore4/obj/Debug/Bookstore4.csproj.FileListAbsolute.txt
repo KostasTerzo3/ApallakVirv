@@ -42,3 +42,25 @@ C:\Users\Kostas\Desktop\Uni\5o eks\Allilepidrasi\apallaktiki\Bookstore4\Bookstor
 C:\Users\Kostas\Desktop\Uni\5o eks\Allilepidrasi\apallaktiki\Bookstore4\Bookstore4\obj\Debug\Bookstore4.csproj.CopyComplete
 C:\Users\Kostas\Desktop\Uni\5o eks\Allilepidrasi\apallaktiki\Bookstore4\Bookstore4\obj\Debug\Bookstore4.exe
 C:\Users\Kostas\Desktop\Uni\5o eks\Allilepidrasi\apallaktiki\Bookstore4\Bookstore4\obj\Debug\Bookstore4.pdb
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Bookstore4.exe.config
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Bookstore4.exe
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Bookstore4.pdb
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Npgsql.dll
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Npgsql.pdb
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\bin\Debug\Npgsql.xml
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.csprojAssemblyReference.cache
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Customer.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Employee.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Entrance.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Multifunction.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Printer.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Scanner.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Search.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.For_database.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.Properties.Resources.resources
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.csproj.GenerateResource.cache
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.csproj.CopyComplete
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.exe
+C:\Users\Kostas\Source\Repos\ApallakVirv\Bookstore4\Bookstore4\obj\Debug\Bookstore4.pdb
